@@ -12,7 +12,7 @@ function App() {
           Edubooks
         </h1>
         <h2 className='text-4xl font-extralight mb-5 text-white tracking-widest animate-bounce'>
-          Market Place For Selling and Buying Textbooks
+          Platform For Selling and Buying Second Hand Textbooks
         </h2>
         <div className='flex flex-col space-x-16 cursor-pointer lg:flex-row'>
           <img
